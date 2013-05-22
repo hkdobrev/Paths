@@ -1,0 +1,8 @@
+Paths/build
+*gradle*
+.idea/
+Paths/src/main/gen/
+local.properties
+Paths/libs/
+Paths.iml
+Paths-Paths.iml
